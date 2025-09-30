@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class CriminalConfig(AppConfig):
+class AigameConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'criminal'
+    name = 'AIGame'
